@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://299nhs7sjg-netizen.github.io/stackgrade/sitemap.xml
-Sitemap: https://299nhs7sjg-netizen.github.io/greentools/sitemap.xml
+Sitemap: https://greentools.pages.dev/sitemap.xml
